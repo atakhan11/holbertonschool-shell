@@ -1,3 +1,4 @@
 #!/bin/bash
-user="foo"
-cd ~$user
+#cd ~    holbertonschool-shell
+
+
