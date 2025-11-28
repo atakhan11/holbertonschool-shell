@@ -1,2 +1,2 @@
 #!/bin/bash
-alias dir="echo hello user"
+alias dir="echo hello user"; dir
